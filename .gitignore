@@ -1,0 +1,16 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+
+# If you're using SQLite3 as your database:
+*.sqlite3
+
+# If you're using PostgreSQL:
+*.pgsql
+
+# Environments #
+.env
